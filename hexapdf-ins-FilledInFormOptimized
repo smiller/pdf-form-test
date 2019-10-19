@@ -1,0 +1,82 @@
+<<
+  /ID [(N�`��B̛,W̧e��) (N�`��B̛,W̧e��) ]
+  /Info {obj 1} <<
+    /ModDate (D:20191019004352-04'00')
+    /Producer (HexaPDF version 0.10.0)
+  >>
+  /Root {obj 2} <<
+    /Pages {obj 3} <<
+      /Count 1
+      /Kids [{obj page 1} <<
+        /Annots {obj 5} [{obj 6} <<
+          /DA (/Helv 12 Tf 0 g)
+          /F 4
+          /FT /Tx
+          /Ff 1
+          /MK <<
+          >>
+          /P {ref page 1}
+          /Rect [105.37 673.206 255.37 687.606 ]
+          /Subtype /Widget
+          /T (Closing~DocsDate)
+          /V (2019-09-09)
+        >> ]
+        /Contents {obj 7} <<
+          /Filter /FlateDecode
+          /Length 159
+        >>
+        /CropBox [0 0 612 792 ]
+        /MediaBox [0 0 612 792 ]
+        /Parent {ref 3}
+        /Resources <<
+          /ColorSpace <<
+            /CS0 {obj 8} [/ICCBased {obj 9} <<
+              /Alternate /DeviceRGB
+              /Filter /FlateDecode
+              /Length 2612
+              /N 3
+            >> ]
+          >>
+          /Font <<
+            /TT0 {obj 10} <<
+              /BaseFont /HBSTZC+Calibri
+              /FirstChar 33
+              /FontDescriptor {obj 11} <<
+                /Ascent 952
+                /AvgWidth 521
+                /CapHeight 632
+                /Descent -269
+                /Flags 4
+                /FontBBox [-503 -313 1240 1026 ]
+                /FontFile2 {obj 12} <<
+                  /Filter /FlateDecode
+                  /Length 9803
+                  /Length1 19412
+                >>
+                /FontName /HBSTZC+Calibri
+                /ItalicAngle 0
+                /MaxWidth 1328
+                /StemV 0
+                /Type /FontDescriptor
+                /XHeight 464
+              >>
+              /LastChar 47
+              /Subtype /TrueType
+              /ToUnicode {obj 13} <<
+                /Filter /FlateDecode
+                /Length 318
+              >>
+              /Type /Font
+              /Widths [459 229 799 525 229 498 226 459 527 349 268 615 479 335 498 ]
+            >>
+          >>
+          /ProcSet [/PDF /Text ]
+        >>
+        /Type /Page
+      >> ]
+      /Type /Pages
+    >>
+    /Type /Catalog
+  >>
+  /Size 14
+>>

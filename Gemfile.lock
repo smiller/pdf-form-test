@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cmdparse (3.0.4)
+    geom2d (0.2.0)
+    hexapdf (0.10.0)
+      cmdparse (~> 3.0, >= 3.0.3)
+      geom2d (~> 0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hexapdf (~> 0.10)
+
+BUNDLED WITH
+   1.17.3

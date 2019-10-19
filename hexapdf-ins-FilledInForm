@@ -1,0 +1,122 @@
+<<
+  /ID [(
+        ��-��fA�i����) (�'A��m�p�Ś1�X�a) ]
+  /Info {obj 1} <<
+    /CreationDate (D:20191019041553Z)
+    /Creator (Word)
+    /Keywords ()
+    /ModDate (D:20191019004352-04'00')
+    /Producer (HexaPDF version 0.10.0)
+    /Title (Microsoft Word - Simple Form.docx)
+  >>
+  /Prev 4718
+  /Root {obj 2} <<
+    /AcroForm {obj 3} <<
+      /DA (/Helv 0 Tf 0 g )
+      /DR <<
+        /Encoding <<
+          /PDFDocEncoding {obj 4} <<
+            /Differences [24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ]
+            /Type /Encoding
+          >>
+        >>
+        /Font <<
+          /Helv {obj 5} <<
+            /BaseFont /Helvetica
+            /Encoding {ref 4}
+            /Name /Helv
+            /Subtype /Type1
+            /Type /Font
+          >>
+          /ZaDb {obj 6} <<
+            /BaseFont /ZapfDingbats
+            /Name /ZaDb
+            /Subtype /Type1
+            /Type /Font
+          >>
+        >>
+      >>
+      /Fields [{obj 7} <<
+        /DA (/Helv 12 Tf 0 g)
+        /F 4
+        /FT /Tx
+        /Ff 1
+        /MK <<
+        >>
+        /P {obj page 1} <<
+          /Annots {obj 9} [{ref 7} ]
+          /Contents {obj 10} <<
+            /Filter /FlateDecode
+            /Length 159
+          >>
+          /CropBox [0 0 612 792 ]
+          /MediaBox [0 0 612 792 ]
+          /Parent {obj 11} <<
+            /Count 1
+            /Kids [{ref page 1} ]
+            /Type /Pages
+          >>
+          /Resources <<
+            /ColorSpace <<
+              /CS0 {obj 12} [/ICCBased {obj 13} <<
+                /Alternate /DeviceRGB
+                /Filter /FlateDecode
+                /Length 2612
+                /N 3
+              >> ]
+            >>
+            /Font <<
+              /TT0 {obj 14} <<
+                /BaseFont /HBSTZC+Calibri
+                /FirstChar 33
+                /FontDescriptor {obj 15} <<
+                  /Ascent 952
+                  /AvgWidth 521
+                  /CapHeight 632
+                  /Descent -269
+                  /Flags 4
+                  /FontBBox [-503 -313 1240 1026 ]
+                  /FontFile2 {obj 16} <<
+                    /Filter /FlateDecode
+                    /Length 9803
+                    /Length1 19412
+                  >>
+                  /FontName /HBSTZC+Calibri
+                  /ItalicAngle 0
+                  /MaxWidth 1328
+                  /StemV 0
+                  /Type /FontDescriptor
+                  /XHeight 464
+                >>
+                /LastChar 47
+                /Subtype /TrueType
+                /ToUnicode {obj 17} <<
+                  /Filter /FlateDecode
+                  /Length 318
+                >>
+                /Type /Font
+                /Widths [459 229 799 525 229 498 226 459 527 349 268 615 479 335 498 ]
+              >>
+            >>
+            /ProcSet [/PDF /Text ]
+          >>
+          /Rotate 0
+          /Type /Page
+        >>
+        /Rect [105.37 673.206 255.37 687.606 ]
+        /Subtype /Widget
+        /T (Closing~DocsDate)
+        /Type /Annot
+        /V (2019-09-09)
+      >> ]
+    >>
+    /Metadata {obj 18} <<
+      /Length 3520
+      /Subtype /XML
+      /Type /Metadata
+    >>
+    /Pages {ref 11}
+    /Type /Catalog
+  >>
+  /Size 27
+>>
