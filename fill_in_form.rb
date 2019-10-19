@@ -16,6 +16,7 @@ optimized_name = "./FilledInFormOptimized.pdf"
 
 package = HexaPDF::Document.new
 pdf = HexaPDF::Document.open(filled_in_name)
+pdf.catalog[:AcroForm][:NeedAppearances] = true
 pdf.pages.each { |page| package.pages << package.import(page) }
 package.task(:optimize, compact: true,
                         object_streams: :delete)
