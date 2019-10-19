@@ -61,4 +61,7 @@ package = HexaPDF::Document.new
   pdf.pages.each { |page| package.pages << package.import(page) }
 end
 
+# Ensure [:NeedAppearances] is also set at the package level
+(package.catalog[:AcroForm] = {})[:NeedAppearances] = true
+
 package.write(package_name)
